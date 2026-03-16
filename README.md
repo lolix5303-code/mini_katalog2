@@ -45,12 +45,13 @@ pubspec.yaml
    git clone <repo-url>
    cd mini_katalog
 3. Paketi Yükleyin
-  flutter pub get
+   flutter pub get
 4. Uygulamayı çalıştırın
-flutter run
+   flutter run
 
 
 Ekran Görüntüleri
+
 Ana Sayfa
 ![Ana Sayfa](screenshots/home.png)
 
@@ -59,3 +60,4 @@ Ana Sayfa
 
 Sepet
 ![Sepet](screenshots/toplam.png)
+
