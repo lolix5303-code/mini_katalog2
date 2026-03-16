@@ -1,28 +1,21 @@
 # Mini Katalog Uygulaması
 
-## 📌 Proje Tanımı
+ Proje Tanımı
 Bu proje, Flutter günlük eğitim kapsamında geliştirilmiş basit bir katalog uygulamasıdır.  
 Amaç: Flutter’ın temel widget yapısını, sayfa geçişlerini, JSON veri okuma mantığını ve basit state yönetimini öğretmek.  
 
-## 🚀 Kullanılan Araçlar
+ Kullanılan Araçlar
 - Flutter SDK (3.x)
 - Dart SDK
 - Visual Studio Code
 - Android Studio (Emulator)
 - Android Emulator veya Fiziksel Android Cihaz
 
-## 🛠️ Kullanılan Paketler
+ Kullanılan Paketler
 - `material.dart` (varsayılan Flutter paketi)  
-👉 Ekstra paket kullanılmamıştır.
+ Ekstra paket kullanılmamıştır.
 
-## 📅 Eğitim Planı
-- **Gün 1:** Kurulum ve temel widget yapısı  
-- **Gün 2:** Dart temelleri ve UI widget’ları  
-- **Gün 3:** Sayfa geçişleri ve Navigator kullanımı  
-- **Gün 4:** JSON veri okuma ve listeleme  
-- **Gün 5:** Mini katalog uygulaması (liste, detay, sepet)
-
-## 📱 Uygulama Özellikleri
+ Uygulama Özellikleri
 - Ana sayfa: GridView ile ürün listesi  
 - Ürün detayı: Görsel, fiyat, sepete ekleme butonu  
 - Sepet ekranı: ListView ile ürünleri gösterme  
@@ -30,7 +23,7 @@ Amaç: Flutter’ın temel widget yapısını, sayfa geçişlerini, JSON veri ok
 - Sepetten ürün silme özelliği  
 - JSON dosyasından dinamik veri yükleme  
 
-## 📂 Proje Klasör Yapısı
+ Proje Klasör Yapısı
 mini_katalog/
 lib/
 main.dart
@@ -43,4 +36,17 @@ watch.png
 data/
 products.json
 pubspec.yaml
-##
+
+
+ Çalıştırma Adımları
+1. Flutter SDK’yı kurun.  
+2. Projeyi klonlayın:  
+   ```bash
+   git clone <repo-url>
+   cd mini_katalog
+ 3.Paketi Yükleyin
+  flutter pub get
+4.Uygulamayı çalıştırın
+flutter run
+
+
