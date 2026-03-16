@@ -6,17 +6,17 @@
   },
   {
     "name": "Laptop",
-    "imageUrl": "assets/images/shopping.png",
+    "imageUrl": "assets/images/laptop.png",
     "price": 149.99
   },
   {
     "name": "Kulaklık",
-    "imageUrl": "assets/images/shopping.png",
+    "imageUrl": "assets/images/kulaklık.png",
     "price": 199.99
   },
   {
     "name": "Saat",
-    "imageUrl": "assets/images/shopping.png",
+    "imageUrl": "assets/images/saat.png",
     "price": 199.99
   }
 ]
